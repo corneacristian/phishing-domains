@@ -5,11 +5,16 @@ Last Update: 16 July 2022
 
 ## Table of Contents  
 [Office365](#office365) 
-[Outlook](#Outlook) 
-[Azure](#Azure) 
-[AWS](#AWS) 
-[Okta](#Okta) 
-[LinkedIn](#LinkedIn) 
+
+[Outlook](#outlook) 
+
+[Azure](#azure) 
+
+[AWS](#aws) 
+
+[Okta](#okta) 
+
+[LinkedIn](#linkedin) 
 
 
 ## Office365
